@@ -4,4 +4,4 @@
 This workshop will provide some basic Git knowledge to CDC researchers
 
 Instructor:
-NAme: Fuhan Yang
+Name: Fuhan Yang
