@@ -1,5 +1,5 @@
 # CDC R Class
-## Github Workshop
+## Git and Github Workshop, May 8th 2025 at Roybal
 
 This workshop will provide some basic Git knowledge to CDC researchers
 
