@@ -1,2 +1,4 @@
 # CDC R Class
-## Github Workship
+## Github Workshop
+
+This workshop will provide some basic Git knowledge to CDC researchers
